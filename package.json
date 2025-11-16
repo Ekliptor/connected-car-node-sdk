@@ -1,5 +1,5 @@
 {
-  "name": "connected-car",
+  "name": "@ekliptor/connected-car",
   "version": "1.3.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -15,7 +15,7 @@
     "docs": "typedoc",
     "semantic-release": "semantic-release"
   },
-  "repository": "https://github.com/ianjwhite99/connected-car-node-sdk.git",
+  "repository": "https://github.com/Ekliptor/connected-car-node-sdk",
   "author": "Ian White <iwhite99@protonmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -25,6 +25,7 @@
     "@semantic-release/npm": "^8.0.3",
     "@semantic-release/release-notes-generator": "^10.0.3",
     "@types/jest": "^26.0.21",
+    "@types/node": "^16.18.0",
     "@types/tough-cookie": "^4.0.2",
     "@typescript-eslint/eslint-plugin": "^2.27.0",
     "@typescript-eslint/parser": "^2.27.0",
